@@ -11,3 +11,18 @@ wheels/
 
 
 resources.zip
+
+experiments/
+
+.env
+notes.txt
+supabase_tutorial_for_env.docx
+.streamlit/
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# UV / pip cache
+uv.lock
+*.log
