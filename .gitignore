@@ -23,6 +23,5 @@ supabase_tutorial_for_env.docx
 .DS_Store
 Thumbs.db
 
-# UV / pip cache
-uv.lock
+
 *.log
